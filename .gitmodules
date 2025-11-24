@@ -1,0 +1,3 @@
+[submodule "project-02"]
+	path = project-02
+	url = https://github.com/cs-audit/project-02
