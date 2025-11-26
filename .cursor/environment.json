@@ -1,6 +1,6 @@
 {
-  "start": "./.cursor/init.sh &",
-  "terminals": [],
+  "snapshot": "POPULATED_FROM_SETTINGS",
+  "install": "bash ./.cursor/init.sh",
   "repositoryDependencies": [
     "https://github.com/cs-audit/project-02"
   ]
