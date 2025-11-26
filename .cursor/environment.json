@@ -2,6 +2,8 @@
   "start": "cd /workspace && bash ./.cursor/init.sh &",
   "repositoryDependencies": [
     "https://github.com/cs-audit/project-02",
-    "https://github.com/xuantuyen25/x"
+    "https://github.com/xuantuyen25/x",
+    "https://github.com/anysphere/lambda",
+    "https://github.com/anysphere/everysphere"
   ]
 }
