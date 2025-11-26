@@ -1,1 +1,0 @@
-- Run the ./.cursor/init.sh script to initialize the agent environment
