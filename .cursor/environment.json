@@ -1,0 +1,10 @@
+{
+  "name": "Everysphere Development",
+  "user": "ubuntu",
+  "install": "echo 'Running: mise trust --all' && mise trust --all && echo 'You must manually run: python3 scripts/setup/cloud_mini_init.py --verbose --skip-submodules'",
+  "start": "./.cursor/init.sh &",
+  "terminals": [],
+  "repositoryDependencies": [
+    "https://github.com/cs-audit/project-02"
+  ]
+}
