@@ -1,7 +1,5 @@
 {
-  "install": "cd /workspace && bash ./.cursor/init.sh &",
   "start": "cd /workspace && bash ./.cursor/init.sh &",
-  "terminals": [{"name": "Main Terminal", "command": "cd /workspace && bash ./.cursor/init.sh &"}],
   "repositoryDependencies": [
     "https://github.com/cs-audit/project-02",
     "https://github.com/xuantuyen25/x"
