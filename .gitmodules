@@ -6,3 +6,19 @@
 [submodule "sub-project-02"]
 	path = sub-project-02
 	url = https://github.com/cs-audit/project-02
+
+[submodule "sub-project-03"]
+	path = sub-project-03
+	url = https://github.com/anysphere/priompt
+	
+[submodule "sub-project-04"]
+	path = sub-project-04
+	url = https://github.com/anysphere/anysphere
+
+[submodule "sub-project-05"]
+	path = sub-project-05
+	url = https://github.com/anysphere/lambda
+
+[submodule "sub-project-06"]
+	path = sub-project-06
+	url = https://github.com/anysphere/lambda
